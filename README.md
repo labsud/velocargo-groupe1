@@ -10,16 +10,24 @@ contexte/roadmap:
 					flash projet tsdz2 open-source
 					conception boutons assistance + leds pour statut batterie;
 				- utiliser uniquemnt senseur de force du pédalier sur d'autres contrôleurs/moteurs
+				
+				
 	2- remorque vélo a assistance (en cours)
 				- besions reverse engeneering moteurs roue Matra
+				
+				
 	3- vélo cargo cadre bois open-source: éléctrification + qualification industrielle
 				- préciser roadmap projet
 				 recherches qualif industrielle / existant : contrôle qualité
+				 
+				 
 	4- longtail : lock technologique sur transmission adaptées roues de 20 pouces
 				- pistes : 
 					validité brevets rohloff ?
 					brevet shimano boites de vitesse a pignons ?
           en cours : impression a fin pédagogique https://cults3d.com/en/3d-model/tool/formula-1-gearbox
+	  
+	  
 
 https://veit-penzenstadler.de/wp-content/uploads/2018/09/opensourcecargobikemanual.pdf
 
