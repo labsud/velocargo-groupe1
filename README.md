@@ -3,6 +3,8 @@ réalisation d'un vélo cargo open-source electrifié
 
 
 contexte/roadmap:
+
+
 	1- éléctrification d'un vélo (en cours)
 			amélioration : 
 				-réduire le cout en supprimant l'écran -> boutons i3d + leds de contrôle
