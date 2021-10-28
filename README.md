@@ -22,6 +22,8 @@ contexte/roadmap:
           en cours : impression a fin pédagogique https://cults3d.com/en/3d-model/tool/formula-1-gearbox
 
 https://veit-penzenstadler.de/wp-content/uploads/2018/09/opensourcecargobikemanual.pdf
+
+
 https://grabcad.com/library/open-source-cargo-bike-1
 
 et pour l'éléctrification
