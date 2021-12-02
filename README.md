@@ -43,3 +43,5 @@ https://github.com/OpenSourceEBike/TSDZ2-Smart-EBike
 [Nouveau dossier compressé.zip](https://github.com/labsud/velocargo-groupe1/files/7435110/Nouveau.dossier.compresse.zip)
 
 [Test velo.docx](https://github.com/labsud/velocargo-groupe1/files/7563958/Test.velo.docx)
+
+Dropbox Frachtstück https://www.dropbox.com/sh/int6hpsbvspp111/AADPumKs_Pte9Y-qZoc3wGsea?dl=0&lst=
